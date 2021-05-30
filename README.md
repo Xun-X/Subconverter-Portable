@@ -65,19 +65,24 @@ MD5：AD8D435FD41750578E4FB87626BB1B75 (EXE)
 ## 關於殺毒軟體的報毒 T_T
 沒測試過殺毒軟體是否報毒，長期以來都是裸奔的，估計很大幾率會被報毒吧，源碼沒公開，被害妄想癥可能會覺得不可靠，那就關閉這個頁面吧，如果有大佬反匯編檢測的話歡迎，身正不怕影子斜！
 
+------------
+　.
+ 
+　.
+ 
+　.
+ 
+　.
+ 
+　.
+ 
+　.
+ 
 
+------------
+# 简体中文 说明
 
-
-
-
-
-
-
-
-
-
-
-
+------------
 
 
 
@@ -147,3 +152,29 @@ MD5：AD8D435FD41750578E4FB87626BB1B75 (EXE)
 
 ## 关于杀毒软体的报毒 T_T
 没测试过杀毒软件是否报毒，长期以来都是裸奔的，估计很大几率会被报毒吧，源码没公开，被害妄想症可能会觉得不可靠，那就关闭这个页面吧，如果有大佬反汇编检测的话欢迎，身正不怕影子斜！
+
+
+
+
+
+
+
+------------
+# 演示截圖
+
+(中國大陸地區可能看不到，請越墻后查看)
+------------
+
+
+## 基本界面：
+[![Xun-X](https://i.ibb.co/0MNcZ5W/Screenshot-GUI.png)](https://github.com/Xun-X/Subconverter-Portable)
+
+
+## 程式圖標：
+[![Xun-X](https://i.ibb.co/S53HxJs/Screenshot-Icon.png)](https://github.com/Xun-X/Subconverter-Portable)
+
+
+## 簡單對照說明：
+[![Xun-X](https://i.ibb.co/RBd9wm1/Screenshot-Main.png)](https://github.com/Xun-X/Subconverter-Portable)
+
+
