@@ -1,10 +1,9 @@
 ## Clash 訂閱轉換器、Clash 訂閱轉換、訂閱轉換工具綠色版、訂閱轉換單EXE版
 [![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/Subconverter-Portable)
-[![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=Tindy.X&color=97C40F)](https://github.com/Xun-X/Subconverter-Portable)
-[![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=免编译、免设置、EXE程式&color=48C21A)](https://github.com/Xun-X/Subconverter-Portable)
-[![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Subconverter-Portable)
-[![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Subconverter-Portable)
-
+[![Xun-X](https://img.shields.io/static/v1?label=特別感謝&message=Tindy.X&color=97C40F)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=軟體特點&message=免編譯、免設置、EXE程式&color=48C21A)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=軟體性質&message=免費、非開源&color=1081C2)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=獲取方式&message=網路硬碟下載&color=F48041)](https://github.com/Xun-X/Subconverter-Portable)
 
 `Clash 訂閱轉換器` `Clash 訂閱轉換` `訂閱轉換工具綠色版` `訂閱轉換單EXE版`
 
@@ -92,7 +91,11 @@ MD5：AD8D435FD41750578E4FB87626BB1B75 (EXE)
 
 
 ## Clash 订阅转换器、Clash 订阅转换、订阅转换工具绿色版、订阅转换单EXE版
-[![Xun-X](https://i.ibb.co/n0jsdf3/Badge.png)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=Tindy.X&color=97C40F)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=免编译、免设置、EXE程序&color=48C21A)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Subconverter-Portable)
+[![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Subconverter-Portable)
 
 `Clash 订阅转换器` `Clash 订阅转换` `订阅转换工具绿色版` `订阅转换单EXE版`
 
