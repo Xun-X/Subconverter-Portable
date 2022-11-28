@@ -1,4 +1,4 @@
-## Clash 訂閱轉換器、Clash 訂閱轉換、訂閱轉換工具綠色版、訂閱轉換單EXE版
+## Clash 訂閱轉換器、Clash 訂閱轉換、訂閱轉換工具綠色版、訂閱轉換單EXE版、負載均衡
 [![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/Subconverter-Portable)
 [![Xun-X](https://img.shields.io/static/v1?label=特別感謝&message=Tindy.X&color=97C40F)](https://github.com/Xun-X/Subconverter-Portable)
 [![Xun-X](https://img.shields.io/static/v1?label=軟體特點&message=免編譯、免設置、EXE程式&color=48C21A)](https://github.com/Xun-X/Subconverter-Portable)
@@ -16,7 +16,7 @@ Clash 訂閱轉換器、Clash 訂閱轉換、訂閱轉換工具綠色版、訂�
 
 
 ## 臨時公告
-2022/11/28 --- 已發佈 [1.3.0] 正式版
+2022/11/28 --- 已發佈 [1.3.0] 正式版，新增負載均衡
 
 
 ## 版本（最底部有演示截圖）
@@ -89,7 +89,7 @@ Clash 訂閱轉換器、Clash 訂閱轉換、訂閱轉換工具綠色版、訂�
 
 
 
-## Clash 订阅转换器、Clash 订阅转换、订阅转换工具绿色版、订阅转换单EXE版
+## Clash 订阅转换器、Clash 订阅转换、订阅转换工具绿色版、订阅转换单EXE版、负载均衡
 [![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/Subconverter-Portable)
 [![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=Tindy.X&color=97C40F)](https://github.com/Xun-X/Subconverter-Portable)
 [![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=免编译、免设置、EXE程序&color=48C21A)](https://github.com/Xun-X/Subconverter-Portable)
@@ -107,7 +107,7 @@ Clash 订阅转换器、Clash 订阅转换、订阅转换工具绿色版、订�
 
 
 ## 临时公告
-2022/11/28 --- 已发佈 [1.3.0] 正式版
+2022/11/28 --- 已发佈 [1.3.0] 正式版，新增负载均衡
 
 
 ## 版本（最底部有演示截图）
