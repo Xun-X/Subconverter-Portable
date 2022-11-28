@@ -5,7 +5,7 @@
 [![Xun-X](https://img.shields.io/static/v1?label=軟體性質&message=免費、非開源&color=1081C2)](https://github.com/Xun-X/Subconverter-Portable)
 [![Xun-X](https://img.shields.io/static/v1?label=獲取方式&message=網路硬碟下載&color=F48041)](https://github.com/Xun-X/Subconverter-Portable)
 
-`Clash 訂閱轉換器` `Clash 訂閱轉換` `訂閱轉換工具綠色版` `訂閱轉換單EXE版`
+`Clash 訂閱轉換器` `Clash 訂閱轉換` `訂閱轉換工具綠色版` `訂閱轉換單EXE版` `負載均衡`
 
 （雙擊運行，輸入訂閱地址，立即在桌面上生成轉換好的配置文件，關閉程序，電腦上不會殘留任何一點臨時文件，便攜綠色可眎化）
 
@@ -96,7 +96,7 @@ Clash 訂閱轉換器、Clash 訂閱轉換、訂閱轉換工具綠色版、訂�
 [![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Subconverter-Portable)
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Subconverter-Portable)
 
-`Clash 订阅转换器` `Clash 订阅转换` `订阅转换工具绿色版` `订阅转换单EXE版`
+`Clash 订阅转换器` `Clash 订阅转换` `订阅转换工具绿色版` `订阅转换单EXE版` `负载均衡`
 
 （双击运行，输入订阅地址，立即在桌面上生成转换好的配置文件，关闭程序，电脑上不会残留任何一点临时文件，便携绿色）
 
