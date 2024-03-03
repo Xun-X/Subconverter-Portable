@@ -58,7 +58,7 @@ Clash 訂閱轉換器、Clash 訂閱轉換、訂閱轉換工具綠色版、訂�
 # 下載地址
 
 
-藍奏雲：https://www.lanzouw.com/iGYWm1q4pe0b
+藍奏雲：https://www.lanzouw.com/iQXpd1poga4b
 
 
 # 使用必讀
@@ -149,7 +149,7 @@ Clash 订阅转换器、Clash 订阅转换、订阅转换工具绿色版、订�
 # 下载地址
 
 
-蓝奏云：https://www.lanzouw.com/iGYWm1q4pe0b
+蓝奏云：https://www.lanzouw.com/iQXpd1poga4b
 
 
 # 使用必读
