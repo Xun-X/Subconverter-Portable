@@ -58,7 +58,7 @@ Clash 订阅转换器、Clash 订阅转换、订阅转换工具绿色版、订�
 # 下载地址
 
 
-蓝奏云：https://www.lanzouw.com/iwetL1q4wu9i
+蓝奏云：https://www.lanzouw.com/iZOiS1q52kje
 
 
 # 使用必读
